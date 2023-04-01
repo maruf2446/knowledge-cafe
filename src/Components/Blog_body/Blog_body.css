@@ -65,6 +65,7 @@
     font-size: 16px;
     line-height: 70px;
     color: rgba(17, 17, 17, 0.6);
+    text-align: left;
 }
 .content-copyright a{
     font-weight: 600;
