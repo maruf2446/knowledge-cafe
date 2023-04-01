@@ -1,0 +1,47 @@
+
+[
+    {
+        "id": 1,
+        "blog_code" : "125df7gr747h77",
+        "Author_Name": "Mr. Raju",
+        "Author_image": "https://media.istockphoto.com/id/1003791952/photo/positive-programmer-enjoying-his-easy-work-and-smiling.jpg?s=612x612&w=is&k=20&c=in1exHpAEtS8xACG1rt_E88w7Rt1c4on7kjvOgHVl-U=",
+        "Blog_title": "How to get your first job as a self-taught programmer.",
+        "Read_time": "05",
+        "Publish_date": "Mar 14 (4 Days ago)",
+        "quantity": 0,
+        "Blog_cover_image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80"
+    },
+    {
+        "id": 2,
+        "blog_code" : "965247fg7ty47y",
+        "Author_Name": "Mrs. Setara",
+        "Author_image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "Blog_title": "How to get your first Intern job as a beginner programmer.",
+        "Read_time": 10,
+        "Publish_date": "Mar 13 (5 Days ago)",
+        "quantity": 0,
+        "Blog_cover_image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80"
+    },
+    {
+        "id": 3,
+        "blog_code" : "5541gfg7ku4d6c",
+        "Author_Name": "Mina Mostofa",
+        "Author_image": "https://images.unsplash.com/photo-1588731247530-4076fc99173e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "Blog_title": "How to study self resource about new type of programming language type to gain more knowledge.",
+        "Read_time": 20,
+        "Publish_date": "Mar 12 (6 Days ago)",
+        "quantity": 0,
+        "Blog_cover_image": "https://images.unsplash.com/photo-1534665482403-a909d0d97c67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": 4,
+        "blog_code" : "748hff9j2gj75",
+        "Author_Name": "Soikot Dash",
+        "Author_image": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "Blog_title": "How to learn react Js easiest ways within 2 month.",
+        "Read_time": 13,
+        "Publish_date": "Mar 11 (7 Days ago)",
+        "quantity": 0,
+        "Blog_cover_image": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    }
+]

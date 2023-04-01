@@ -1,0 +1,14 @@
+.sidebar-div {
+    padding: 0 16px;
+    position: relative;
+}
+.title-element h1{
+    background: #FFF;
+    font-size: 21px;
+    padding: 20px;
+    line-height: 30px;
+    border-radius: 8px;
+    margin-top: 24px;
+    position: sticky;
+    top: 0px;
+};
